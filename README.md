@@ -5,7 +5,7 @@ User could sign up and make the profile, share posts or leave comment on other p
 
 ## Quick Start
 
-### Install dependencies for client and server:
+- Install dependencies for client and server:
 ```
  > npm install
 ```
